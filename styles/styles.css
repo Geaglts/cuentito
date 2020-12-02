@@ -6,3 +6,18 @@
 body {
     background-color: lightcyan;
 }
+
+.container {
+    width: 70%;
+    border: 1px solid steelblue;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.cuento h1 {
+    font-size: 20pt;
+}
+
+.cuento p {
+    font-size: 14pt;
+}
