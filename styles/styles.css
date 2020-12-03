@@ -21,3 +21,25 @@ body {
 .cuento p {
     font-size: 14pt;
 }
+
+.cabecera {
+    background-color: tan;
+    padding: 0.5em 0.8em;
+    margin: 0%;
+}
+
+.cabecera h1,
+.cabecera span {
+    color: snow;
+}
+
+.cabecera h1 {
+    margin: 0%;
+    text-transform: capitalize;
+    font-size: 26pt;
+    font-weight: bold;
+}
+
+.cabecera span {
+    font-size: 18pt;
+}
