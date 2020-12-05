@@ -43,3 +43,20 @@ body {
 .cabecera span {
     font-size: 18pt;
 }
+
+.footer {
+    background-color: indigo;
+    padding: 1em;
+    border-radius: 0 0 5px 5px;
+}
+
+.footer p {
+    color: snow;
+    font-size: 16pt;
+    padding: 0%;
+    margin: 0%;
+}
+
+.footer p:first-child {
+    font-weight: bold;
+}
